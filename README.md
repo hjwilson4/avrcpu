@@ -59,6 +59,7 @@ Atmel AVR CPU with Pipelining Entity Declaration
 
 
   The complete list of instructions included in the CPU are listed below: 
+  
       AVR ALU Instructions
      | Opcode | Op1 | Op2 | Result | Flags Affected |       Description         |
      |  ADC   | Rd  | Rr  |   Rd   |  C Z N V S H   | Rd = Rd + Rr + C          |
